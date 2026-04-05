@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "74b344a43288283ca7896b38d859bd6b91035110bb9c69856afbc60a01ff65e4"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "98af5e703008522eafac48c3321d9d61d80e66e341cacf62ea27f70005f33ad6"
 
@@ -1364,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
+hash = "7ac1588ca7497ca6afbc2b7a2728092e1743e4b22320d70afb0f74430669b762"
 metafile = true
 
 [[files]]
@@ -1374,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-forge.pw.toml"
-hash = "19bbf6f52dddabdd5ce1024f5bbf69e8123e419bc27b71bd89343dc9435e8908"
+hash = "734d385740c2270f10c23efcb078cc35f0a1e93bbb0426141071a7dbbe62abef"
 metafile = true
 
 [[files]]
@@ -1794,7 +1798,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ca5af7f98c994cdc8d93b0f55424b770cb3407b46cf6aa78c490c8b19513936d"
+hash = "9fc21eea66e1415471551e646f92877eb9795169847c9bd21d6ca70bedb5a086"
 metafile = true
 
 [[files]]
