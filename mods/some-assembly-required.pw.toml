@@ -1,0 +1,13 @@
+name = "Create: Some Assembly Required"
+filename = "some-assembly-required-1.20.1-4.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/36OEHU7f/some-assembly-required-1.20.1-4.2.3.jar"
+hash-format = "sha512"
+hash = "536d4e07daacb744fe3821bd6d7b04bb9bf2b8efcaf6d6071aa2bd684d13276355fea529e01cfaa22e4d121bbe3f8034bbdaaf3f46388aaf27c4679c627317b7"
+
+[update]
+[update.modrinth]
+mod-id = "jZi8ogTA"
+version = "36OEHU7f"

@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-Forge-2.13.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/7DWaK3Ah/Icarus-Forge-2.13.1.jar"
+hash-format = "sha512"
+hash = "41c5fb99173e8d6031842f7015b9688e65c59be850fb743462c7346b696bee0f64d1d7d0db1170ba6c7d1708a6e8cb6b52a0d91a3a670ed03e891d309cd686cb"
+
+[update]
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "7DWaK3Ah"

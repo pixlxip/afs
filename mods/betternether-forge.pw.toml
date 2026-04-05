@@ -1,0 +1,13 @@
+name = "BetterNether Forge"
+filename = "BetterNether-20.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mHSCaYw/versions/UJBNzSqS/BetterNether-20.0.10.jar"
+hash-format = "sha512"
+hash = "808670222be0d24dbe4132beab1f544dd92d104f47249e291e7d4bf9e476ca357cdd5a82c47d4260092a05df3dd6269aa06f2e3aa72ac845ce818674cb52b285"
+
+[update]
+[update.modrinth]
+mod-id = "3mHSCaYw"
+version = "UJBNzSqS"
