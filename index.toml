@@ -1657,11 +1657,6 @@ hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
-metafile = true
-
-[[files]]
 file = "mods/lodentityrendering.pw.toml"
 hash = "7a77a2dc5497c8279f97918bfc35f8acc3a4b67c4d49c9947cc36e1a1662dc65"
 metafile = true
