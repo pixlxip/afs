@@ -1608,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+hash = "911db43aff046bdd0cf7b72e4a602e2f3a06ed7c1886e27698b33c9bd3772b15"
 metafile = true
 
 [[files]]
@@ -1654,6 +1654,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
