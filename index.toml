@@ -1732,11 +1732,6 @@ hash = "dfe98fff6f1b53ea6cf1a6ba29b41fa0d9794a619be4aea50cc6cdd8c1147557"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
-metafile = true
-
-[[files]]
 file = "mods/ram-compat.pw.toml"
 hash = "79520a17ae356d0d5f993bd1c5826d386813c6a957a4dc3a0693fdd7bf769ca5"
 metafile = true
