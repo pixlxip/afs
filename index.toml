@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "c01e6f68aeec0f8ac8299d2fac9a624075dd759e9ccf7c011729c24019422f92"
+hash = "84d086c1a9524c1f16f5f68e2dc5e044318d79c7673fd63c34e59a3b35a7f542"
 metafile = true
 
 [[files]]
@@ -1544,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "0fbff49116a2dcc0a6207c466086c599b99960093f9aa655d09adfd291897cbd"
 metafile = true
 
 [[files]]
@@ -1648,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
@@ -1683,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
 metafile = true
 
 [[files]]
@@ -1714,6 +1719,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "43aa600c18fe906f1fe6bd6d384c996fb20a122d4cd86dfd154f2936c0edfe39"
 metafile = true
 
 [[files]]
@@ -1843,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies-2-+-supplementaries-cannon-fix.pw.toml"
-hash = "4cb2c89af82574c01f9af1c0d451957b0c455bd329bab43ecdacc0d25fd064e5"
+hash = "d498adf81a5165d28b2f31f5077a7d02cd58451259f7585547d8369de943aa10"
 metafile = true
 
 [[files]]
@@ -1879,4 +1889,9 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-forge.pw.toml"
 hash = "ea7bad8f17ce88a7b13a0b8019d2d6c0970f1bd1b6f78ca6ae5e0f0c5b2724ec"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
 metafile = true
