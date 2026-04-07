@@ -1807,11 +1807,6 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "a83de63387c9fd0afedb93c8a1da851c6fb6dc72e4fb09c24b145b23fc1bb549"
 metafile = true
