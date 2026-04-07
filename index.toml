@@ -1447,11 +1447,6 @@ hash = "797319605711426926820c557d45cbff6052f1899cf4b8267c7941a9c11a2b32"
 metafile = true
 
 [[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "84d086c1a9524c1f16f5f68e2dc5e044318d79c7673fd63c34e59a3b35a7f542"
-metafile = true
-
-[[files]]
 file = "mods/create-compat-betterend-betternether.pw.toml"
 hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
