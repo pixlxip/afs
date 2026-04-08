@@ -1652,11 +1652,6 @@ hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
-file = "mods/lodentityrendering.pw.toml"
-hash = "7a77a2dc5497c8279f97918bfc35f8acc3a4b67c4d49c9947cc36e1a1662dc65"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
