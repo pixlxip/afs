@@ -1847,6 +1847,11 @@ hash = "9e42e106415a4fe07bdfe23d1470c81cb924c03c95ead8fd9d1216701ab67b12"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "4631b5c293a9887eb8119f2cc06c0c24d026ff0981305c572a531a3df64f00f5"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-sails.pw.toml"
 hash = "fe98662efb87f9f0f88acc2f0dad45542bd6d2d148565982d3b2c463d1190735"
 metafile = true
