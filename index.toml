@@ -1717,6 +1717,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "01f2f4ee6833d98d82dca9e7505bda3ad0e087af6132b47130c1a09801c2d484"
 metafile = true
