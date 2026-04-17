@@ -1,0 +1,13 @@
+name = "BackPort Recipes"
+filename = "backport_recipes-0.0.3 Release-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CoobMclu/versions/V4ZkLf81/backport_recipes-0.0.3%20Release-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "389c0782dd2595502f25e814b32383e9a23ae340ef7115987cd8b0e6a431d6ea0bd2f7690f1d2b82033e06b0f33ae572293c33854d1c4b576e48d2e93bd8502f"
+
+[update]
+[update.modrinth]
+mod-id = "CoobMclu"
+version = "V4ZkLf81"
